@@ -52,3 +52,7 @@ Routing and Controller
   Table name -> Plural, lower case of model name
   Model name filename -> All lowercase but singular, article.rb
   Controller name -> plural of mode so articles_controller.rb
+
+
+##Features
+  Pagination

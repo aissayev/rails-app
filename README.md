@@ -28,10 +28,17 @@ Routing and Controller
 
 # Rails app has
   1. Custom Authentication System from scratch
-  2. Add Styling usin bootstrap classes
+  2. Add Styling using bootstrap classes
   3. build one-to-many and many-to-many Associations
   4. Add profile images using gravatars
   5. Use pagination for listing views
+  6. Admin users
+  7. Testing
+  
+## Models
+  1. articles
+  2. users
+  3. category (was developed using TDD)
 
 # CRUD Operations in Ruby on Rails
 
